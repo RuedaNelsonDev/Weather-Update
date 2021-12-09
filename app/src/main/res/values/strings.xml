@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Retrofit Exercise</string>
+    <string name="title_temperatura">\ Temperatura \  </string>
+    <string name="intro_city">Ingrese la ciudad</string>
+    <string name="intro_country">Ingresa tu pais (Opcional)</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="info_app">Actualizate con la información del clima de mas de 200mil ciudades</string>
+    <string name="descripcion_clima">\ Descripción: \  </string>
+    <string name="name_app">Weather Update</string>
 </resources>
